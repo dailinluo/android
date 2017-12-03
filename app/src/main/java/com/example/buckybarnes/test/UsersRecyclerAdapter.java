@@ -2,7 +2,7 @@ package com.example.buckybarnes.test;
 
 
 /**
- * Created by BuckyBarnes on 2017/11/26.
+ * Created by Smart on 2017/11/26.
  */
 import android.support.v7.widget.AppCompatTextView;
 import android.support.v7.widget.RecyclerView;

@@ -11,6 +11,7 @@
     android:paddingTop="20dp"
     tools:context=".LoginActivity">
 
+
     <android.support.v7.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -22,7 +23,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
             android:gravity="center"
-            android:text="Smart Survaillance"
+            android:text="Register"
             android:textSize="32dp" />
 
         <android.support.design.widget.TextInputLayout

@@ -19,6 +19,9 @@ import com.example.buckybarnes.test.InputValidation;
 import com.example.buckybarnes.test.User;
 import com.example.buckybarnes.test.DatabaseHelper;
 
+
+
+
 public class RegisterActivity extends AppCompatActivity implements View.OnClickListener {
 
     private final AppCompatActivity activity = RegisterActivity.this;
