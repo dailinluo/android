@@ -14,7 +14,7 @@ public class webview extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_webview);
 
-        String url = "http://google.com";
+        String url = "http://192.168.0.104:8000";
         WebView view = (WebView) this.findViewById(R.id.webview);
         view.getSettings().setJavaScriptEnabled(true);
         view.loadUrl(url);
