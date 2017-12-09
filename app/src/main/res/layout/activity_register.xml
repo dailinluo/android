@@ -22,7 +22,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <!--Personal controbution-->
+        <!--Personal contribution-->
         <android.support.v7.widget.AppCompatTextView
             android:id="@+id/textViewLogo"
             android:layout_width="fill_parent"
@@ -31,7 +31,7 @@
             android:gravity="center"
             android:text="Register"
             android:textSize="32dp" />
-        <!--Stop-->
+        <!--End-->
 
         <android.support.design.widget.TextInputLayout
             android:id="@+id/textInputLayoutName"

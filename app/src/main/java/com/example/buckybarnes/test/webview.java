@@ -17,7 +17,7 @@ public class webview extends AppCompatActivity {
         setContentView(R.layout.activity_webview);
 
         //open up the browser with the video streaming website
-        String url = "http://192.168.0.104:8000";
+        String url = "http://192.168.0.104:6543";
         WebView view = (WebView) this.findViewById(R.id.webview);
         view.getSettings().setJavaScriptEnabled(true);
         view.loadUrl(url);

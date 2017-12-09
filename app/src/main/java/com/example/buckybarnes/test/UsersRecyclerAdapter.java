@@ -3,7 +3,7 @@ package com.example.buckybarnes.test;
 
 /**
  * Created by Dailin Luo on 2017/11/26.
- * Unless specified as personal contribution, this  class is adapted from website:
+ * Unless specified as personal contribution, this class is adapted from website:
  * http://www.androidtutorialshub.com/android-login-and-register-with-sqlite-database-tutorial/
  */
 import android.support.v7.widget.AppCompatTextView;

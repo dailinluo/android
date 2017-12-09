@@ -16,11 +16,13 @@
         android:gravity="center"
         android:orientation="vertical">
 
+        <!--Personal contribution-->
         <android.support.v7.widget.AppCompatTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="User List"
             android:textSize="20sp" />
+        <!--End-->
 
         <android.support.v7.widget.AppCompatTextView
             android:id="@+id/textViewName"

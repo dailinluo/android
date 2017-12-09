@@ -2,7 +2,7 @@ package com.example.buckybarnes.test;
 
 /**
  * Created by Dailin Luo on 2017/11/26.
- * Unless specified as personal contribution, this  class is adapted from website:
+ * Unless specified as personal contribution, this class is adapted from website:
  * http://www.androidtutorialshub.com/android-login-and-register-with-sqlite-database-tutorial/
  */
 import android.os.Bundle;
@@ -20,8 +20,6 @@ import com.example.buckybarnes.test.R;
 import com.example.buckybarnes.test.InputValidation;
 import com.example.buckybarnes.test.User;
 import com.example.buckybarnes.test.DatabaseHelper;
-
-
 
 
 public class RegisterActivity extends AppCompatActivity implements View.OnClickListener {
