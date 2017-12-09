@@ -1,5 +1,5 @@
 # android
-This respository is used to store the android application developed for"Smart Survillance", a third year engineering project class 
+This respository is used to store the android application developed for"Smart Survillance", a third year engineering project for class 
 SYSC 3010, in Carleton University
 
 *In order to let the video streaming to work, please make sure you connect to the wifi "Group M8"*
