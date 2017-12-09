@@ -2,9 +2,11 @@ package com.example.buckybarnes.test;
 
 
 /**
- * Created by BuckyBarnes on 2017/11/26.
+ * Created by Dailin Luo on 2017/11/26.
+ * Unless specified as personal contribution, this class is adapted from website:
+ * http://www.androidtutorialshub.com/android-login-and-register-with-sqlite-database-tutorial/
  */
-//asdfgh
+
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;

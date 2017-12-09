@@ -1,7 +1,9 @@
 package com.example.buckybarnes.test;
 
 /**
- * Created by BuckyBarnes on 2017/11/26.
+ * Created by Dailin Luo on 2017/11/26.
+ * This class is adapted from website:
+ * http://www.androidtutorialshub.com/android-login-and-register-with-sqlite-database-tutorial/
  */
 import android.app.Activity;
 import android.content.Context;

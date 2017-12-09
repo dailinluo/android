@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+      Created by Dailin Luo
+      Unless specified as personal contribution, this class is adapted from website:
+      http://www.androidtutorialshub.com/android-login-and-register-with-sqlite-database-tutorial/
+ -->
 <android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nestedScrollView"
@@ -9,13 +14,14 @@
     android:paddingLeft="20dp"
     android:paddingRight="20dp"
     android:paddingTop="20dp"
-    tools:context=".activities.LoginActivity">
+    tools:context=".LoginActivity">
 
     <android.support.v7.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
 
+        <!--Personal controbution-->
         <android.support.v7.widget.AppCompatTextView
             android:id="@+id/textViewLogo"
             android:layout_width="fill_parent"
@@ -24,6 +30,7 @@
             android:gravity="center"
             android:text="Login"
             android:textSize="32dp" />
+        <!--Stop-->
 
         <android.support.design.widget.TextInputLayout
             android:id="@+id/textInputLayoutEmail"

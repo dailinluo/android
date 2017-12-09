@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+      Created by Dailin Luo
+      Unless specified as personal contribution, this class is adapted from website:
+      http://www.androidtutorialshub.com/android-login-and-register-with-sqlite-database-tutorial/
+ -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.buckybarnes.test">
 
