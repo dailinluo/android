@@ -3,6 +3,7 @@ This respository is used to store the android application developed for"Smart Su
 SYSC 3010, in Carleton University
 
 *In order to let the video streaming to work, please make sure you connect to the wifi "Group M8"*
+
 To open up the android appliaction, please download and install the "app-debug.apk" file to the android phone. Once installed, choose
 the app from the desktop, and open up the app. 
 
